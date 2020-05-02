@@ -3,4 +3,4 @@ applications:
   memory: 100M
   buildpacks: 
   - https://github.com/cloudfoundry/python-buildpack.git
-   command: python app.py
+  command: python app.py
