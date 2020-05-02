@@ -1,4 +1,4 @@
 applications:
 - name: final-portfolio
   memory: 100M
-  buildpack: python-3.7.4
+  buildpacks: https://github.com/cloudfoundry/python-buildpack.git
